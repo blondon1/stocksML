@@ -1,13 +1,12 @@
 # Elasticsearch Configuration
 elasticsearch_host = 'localhost'
 elasticsearch_port = 9200
-elasticsearch_index = 'stocksight'
-
+elasticsearch_index = 'stockml'  
 # Twitter API Configuration
-consumer_key = 'YOUR_CONSUMER_KEY'
-consumer_secret = 'YOUR_CONSUMER_SECRET'
-access_token = 'YOUR_ACCESS_TOKEN'
-access_token_secret = 'YOUR_ACCESS_TOKEN_SECRET'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 # Stock Symbol example
 stock_symbol = 'TSLA'
